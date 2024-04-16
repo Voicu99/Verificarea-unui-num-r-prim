@@ -1,0 +1,1 @@
+# Verificarea unui număr prim
